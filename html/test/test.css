@@ -1,0 +1,9 @@
+/* Firefox, Opera, Safari */
+@font-face {
+font-family: "a";
+src: url("type/KaushanScript-Regular.otf") format("opentype");
+}
+body {
+  color: blue;
+  font-family: "a";
+}
